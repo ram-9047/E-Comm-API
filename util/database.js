@@ -16,4 +16,4 @@ const sequelize = new Sequelize("node-complete", "root", "sql@9047", {
   host: "localhost",
 });
 
-module.exports = sequelize;
+module.exports = sequelize
